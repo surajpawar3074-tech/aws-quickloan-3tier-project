@@ -4,7 +4,7 @@ A loan-application website (QuickLoan) deployed on AWS using a custom VPC, publi
 
 ## Architecture
 
-![QuickLoan AWS architecture diagram](architecture-diagram.png)
+![QuickLoan AWS architecture diagram](QL-architecture-diagram.png)
 
 ## AWS Services Used
 
